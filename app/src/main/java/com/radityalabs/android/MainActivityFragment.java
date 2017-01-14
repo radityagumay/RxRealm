@@ -8,6 +8,8 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
+import com.radityalabs.android.realm.ProductObject;
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;

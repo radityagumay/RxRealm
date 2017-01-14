@@ -6,7 +6,7 @@ import android.util.Log
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import com.radityalabs.android.ProductObject
+import com.radityalabs.android.realm.ProductObject
 import com.radityalabs.android.R
 import io.reactivex.Observable
 import io.reactivex.ObservableOnSubscribe

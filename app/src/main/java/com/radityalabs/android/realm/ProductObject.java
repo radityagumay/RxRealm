@@ -1,4 +1,4 @@
-package com.radityalabs.android;
+package com.radityalabs.android.realm;
 
 import io.realm.RealmObject;
 import io.realm.annotations.Ignore;
