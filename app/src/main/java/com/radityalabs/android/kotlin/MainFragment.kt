@@ -1,4 +1,4 @@
-package com.radityalabs.android
+package com.radityalabs.android.kotlin
 
 import android.os.Bundle
 import android.support.v4.app.Fragment
@@ -6,6 +6,8 @@ import android.util.Log
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import com.radityalabs.android.ProductObject
+import com.radityalabs.android.R
 import io.reactivex.Observable
 import io.reactivex.ObservableOnSubscribe
 import io.reactivex.android.schedulers.AndroidSchedulers
